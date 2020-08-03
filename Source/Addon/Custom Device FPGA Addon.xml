@@ -24,7 +24,7 @@
 				<Type>To Common Doc Dir</Type>
 				<Path>Custom Devices\FPGA Addon\Windows\FPGA Addon Engine Windows.llb\RT Driver VI.vi</Path>
 			</Source>
-			<RealTimeSystemDestination>c:\ni-rt\NIVeriStand\Custom Devices\FPGA Addon\FPGA Addon Engine Windows.llb\RT Driver VI.vi</RealTimeSystemDestination>
+			<RealTimeSystemDestination>c:\ni-rt\VeriStand\Custom Devices\FPGA Addon\FPGA Addon Engine Windows.llb\RT Driver VI.vi</RealTimeSystemDestination>
 		</Source>
         <Source>
 			<SupportedTarget>Pharlap</SupportedTarget>
